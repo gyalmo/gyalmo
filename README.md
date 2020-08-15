@@ -13,7 +13,7 @@
 <br/>
 
 - 🌱 I’m currently learning Raspberry Pi Programming 
-- 📫 How to reach me: Twitter - https://twitter.com/Shruty71630223 Instagram - https://www.instagram.com/gyalmo__/
+- 📫 How to reach me: [Twitter - @Shruty71630223](https://twitter.com/Shruty71630223) , [Instagram - @gyalmo__](https://www.instagram.com/gyalmo__/)
 - 😄 Pronouns: she/her
 
 [![Twitter: Shruty71630223](https://img.shields.io/twitter/follow/Shruty71630223?style=social)](https://twitter.com/Shruty71630223)
