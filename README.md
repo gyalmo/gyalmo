@@ -12,8 +12,12 @@
 <br/>
 <br/>
 
-- 🌱 I’m currently learning Web Development and Software Development life cycle .
+- ✨ A tech savvy Community Manager with interest in Community Building, Open Source, and Inspiring People. My goal is to break the stereotypes, hesitations and problems faced by       Students by being a part of a Community.
+- ❤  Learning Gatsby 
+- 🎉 I’m currently learning Web Development and Software Development life cycle .
 - 📫 How to reach me: [Twitter - @Shruty71630223](https://twitter.com/Shruty71630223) , [Instagram - @gyalmo__](https://www.instagram.com/gyalmo__/)
+- 🌐 https://www.hackforchange.co.in/ 
+- 💬 shruti@hackforchange.co.in 
 - 😄 Pronouns: she/her
 
 [![Twitter: Shruty71630223](https://img.shields.io/twitter/follow/Shruty71630223?style=social)](https://twitter.com/Shruty71630223)
