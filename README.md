@@ -19,6 +19,7 @@
 - 🌐 https://www.hackforchange.co.in/ 
 - 💬 shruti@hackforchange.co.in 
 - 😄 Pronouns: she/her
+- 📍  India
 
 [![Twitter: Shruty71630223](https://img.shields.io/twitter/follow/Shruty71630223?style=social)](https://twitter.com/Shruty71630223)
 [![GitHub iampawan](https://img.shields.io/github/followers/gyalmo?label=follow&style=social)](https://github.com/gyalmo)
