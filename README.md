@@ -17,7 +17,7 @@
 - 📫 How to reach me: [Twitter - @Shruty71630223](https://twitter.com/Shruty71630223) , [Instagram - @gyalmo__](https://www.instagram.com/gyalmo__/)
 - 🌐 https://www.hackforchange.co.in/ 
 - 💬 shruti@hackforchange.co.in 
-- 😄 Pronouns: she/her
+- 😄 Pronouns: 
 - 📍  India
 
 [![Twitter: Shruty71630223](https://img.shields.io/twitter/follow/Shruty71630223?style=social)](https://twitter.com/Shruty71630223)
