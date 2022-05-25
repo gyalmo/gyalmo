@@ -16,7 +16,7 @@
 - 🎉 I’m currently learning Web Development and Software Development life cycle .
 - 📫 How to reach me: [Twitter - @Shruty71630223](https://twitter.com/Shruty71630223) , [Instagram - @gyalmo__](https://www.instagram.com/gyalmo__/)
 - 🌐 https://www.hackforchange.co.in/ 
-- 💬 shruti@hackforchange.co.in 
+- 💬 shruti.23775@gmail.com 
 - 😄 Pronouns: she/her
 - 📍  India
 
